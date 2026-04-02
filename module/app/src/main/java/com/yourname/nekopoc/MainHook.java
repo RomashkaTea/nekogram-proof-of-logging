@@ -15,7 +15,7 @@ public class MainHook implements IXposedHookLoadPackage {
             return;
         }
 
-        XposedBridge.log("NekoPoC: Successfully injected into tw.nekogram (2)");
+        XposedBridge.log("NekoPoC: Successfully injected into Nekogram");
 
         ClassLoader classLoader = lpparam.classLoader;
 
