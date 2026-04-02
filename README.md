@@ -26,4 +26,4 @@ If it's running, you'll see this:
 # Proof
 
 ![Proof](neko_proof.png)
-![A video proof](video.mov)
+![A video proof](video.mp4)
