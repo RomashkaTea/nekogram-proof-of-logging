@@ -26,4 +26,4 @@ If it's running, you'll see this:
 # Proof
 
 ![Proof](neko_proof.png)
-![A video proof](video.mp4)
+![A video proof](https://github.com/RomashkaTea/nekogram-proof-of-logging/raw/refs/heads/main/video.mp4)
