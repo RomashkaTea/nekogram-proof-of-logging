@@ -1,10 +1,11 @@
-# Nekogram-logging-proofs
+# Nekogram logging proof
 
 A proof of Nekogram collecting phone numbers
 
 # Requirements
-- A rooted Android device
-- LSPosed 
+- A rooted Android device  
+- LSPosed  
+- Aiogram 3
 
 # How to reproduce
 
